@@ -42,24 +42,24 @@
         "name": "FourKHDHub"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/4KHDHUB-Bright-Logo.png",
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/HDHUB.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 30029,
+        "fileSize": 48112,
         "status": 1,
-        "language": "en",
+        "language": "hi",
         "authors": [
-            "Phisher"
+            "Phisher98"
         ],
         "tvTypes": [
             "Movie",
-            "TvSeries"
+            "TvSeries",
+            "Anime"
         ],
-        "version": 15,
-        "internalName": "FourKHDHub",
-        "description": "Best",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/FourKHDHub.cs3",
-        "name": "FourKHDHub"
+        "version": 32,
+        "internalName": "HDhub4u",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HDhub4u.cs3",
+        "name": "HDhub4u"
     },
     {
         "iconUrl": "https://ringzapk.com/logo.png",
