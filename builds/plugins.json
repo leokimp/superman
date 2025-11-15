@@ -166,10 +166,10 @@
             "Anime"
         ],
         "version": 34,
-        "internalName": "Netflix",
+        "internalName": "NetflixMirrorProvider",
         "description": "Best",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/NetflixMirrorProvider.cs3",
-        "name": "Netflix"
+        "name": "NetflixMirrorProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/master/Bollyflix/icon.png",
@@ -208,10 +208,10 @@
             "TvSeries"
         ],
         "version": 7,
-        "internalName": "CastleTv",
+        "internalName": "CastleTvProvider",
         "description": "Okay",
         "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CastleTvProvider.cs3",
-        "name": "CastleTv"
+        "name": "CastleTvProvider"
     },
     {
         "iconUrl": "https://play-lh.googleusercontent.com/7geBQBtW_yN70BU81Oi2SoZvYsj5VoYrI4FmUNdqWQlchtExJb7XE_1BQysGzgJ6mBU",
@@ -229,9 +229,9 @@
             "Anime"
         ],
         "version": 3,
-        "internalName": "StreamFlix",
+        "internalName": "StreamFlixProvider",
         "description": "Okay",
         "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/StreamFlixProvider.cs3",
-        "name": "StreamFlix"
+        "name": "StreamFlixProvider"
     }
 ]
